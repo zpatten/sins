@@ -1,2 +1,0 @@
-class Star < OpenStruct
-end

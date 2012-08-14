@@ -1,3 +1,0 @@
-class Planet < OpenStruct
-
-end
